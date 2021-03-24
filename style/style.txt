@@ -1,1 +1,3 @@
 <this is an style for login button>
+<this is style of exit button>
+
